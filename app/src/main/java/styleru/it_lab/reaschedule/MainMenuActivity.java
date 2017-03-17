@@ -31,7 +31,7 @@ import styleru.it_lab.reaschedule.Operations.OtherOperations;
 import styleru.it_lab.reaschedule.Operations.ScheduleUIManager;
 import styleru.it_lab.reaschedule.Schedule.Week;
 import styleru.it_lab.reaschedule.Services.GcmRegistrationIntentService;
-
+//Crashes on Kit-Kat
 @SuppressWarnings("unchecked")
 public class MainMenuActivity extends AppCompatActivity {
 
